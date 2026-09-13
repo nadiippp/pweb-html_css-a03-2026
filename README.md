@@ -1,5 +1,13 @@
 # 🇮🇩 Portfolio & Creative CV - Kelompok Prabowo
 
+##  Anggota Kelompok
+
+| Nama | NRP |
+|---|---|
+| Muhammad Nadhif Pasya Ikhsan | 5027251084 |
+| Raffa al azmi | 5027251079 |
+| Asfia Fahmisan | 5027251043 |
+
 <div align="center">
   <img width="715" height="533" alt="image" src="https://github.com/user-attachments/assets/fdc5cf16-b2cc-4e7b-b5ce-03dc25b5fa9b" />
   <br><br><br>
@@ -34,14 +42,6 @@ pweb-html_css-a03-2026/
 └── mbg.html
 
 ```
-
-##  Anggota Kelompok
-
-| Nama | NRP |
-|---|---|
-| Muhammad Nadhif Pasya Ikhsan | 5027251084 |
-| Raffa al azmi | 5027251079 |
-| Asfia Fahmisan | 5027251043 |
 
 > **Departemen Teknologi Informasi**
 > Institut Teknologi Sepuluh Nopember (ITS)
